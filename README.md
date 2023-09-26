@@ -1,4 +1,4 @@
-##Página de Inicio - Ejemplo
+##Página de Inicio
 Esta es una página web básica creada en React que consta de una página de inicio donde se puede encontrar información sobre la página. El único componente de React externo a App.jsx es Navbar.jsx, que se utiliza para la barra de navegación.
 
 #Funcionalidades
