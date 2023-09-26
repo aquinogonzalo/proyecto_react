@@ -4,14 +4,13 @@ import { Navbar } from './components/navbar'
 import pm from './assets/pm.png'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
       <Navbar />
       <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={pm} className="logo" alt="Vite logo" />
+        <a href="https://poe.com/s/Z6nUNa9O6nHviGQM7Whh" target="_blank" rel="noreferrer">
+          <img src={pm} className="logo" alt="centinela logo" />
         </a>
       </div>
       <h1>Estándar en Seguridad e Higiene</h1>
